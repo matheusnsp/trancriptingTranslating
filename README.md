@@ -60,6 +60,3 @@ diversas indústrias.
 - **Make sure you have an internet connection** for translation.
 - **Processing time depends on the video length** and the Whisper model used.
 - **Whisper only supports non-English to English translation natively**, so Google Translate is used for English to Portuguese conversion.
-
-## 🤖 Author
-Matheus 😊
